@@ -18,3 +18,8 @@ I have found the below locations using the above method:
 1. https://maps.americanexpress.com/aushopsmall#?MId=8153587223 (added to WiKi)
 2. https://maps.americanexpress.com/AUShopSmall?linknav=au-mer-shopsmall-home-shopsmallmap#?MId=9811661408 (haven't confirmed)
 3. https://maps.americanexpress.com/AUShopSmall?linknav=au-mer-shopsmall-home-shopsmallmap#?MId=8153580341 (haven't confirmed)
+
+## Sydney Opal shop small
+Similar approach to the above script for Melbourne
+
+Get it here: <https://github.com/mrducnguyen/grease-scripts/raw/master/scripts/SydneyOpalShopSmall/opal-shopsmall.user.js>

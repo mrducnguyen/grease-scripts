@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://maps.americanexpress.com/*
+// @match        https://maps.americanexpress.com/au*
 // @grant        none
 // ==/UserScript==
 
